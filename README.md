@@ -3,8 +3,11 @@
 ## 🎓 Disciplina
 
 **Universidade de Cuiabá — UNIC**
+
 **Curso:** Ciência da computação 
+
 **Disciplina:** Computação Gráfica e Processamento de Imagens
+
 **Professor:** MSc. João Francisco Borba
 
 ---
