@@ -3,7 +3,7 @@
 ## 🎓 Disciplina
 
 **Universidade de Cuiabá — UNIC**
-**Curso:** Superior de Tecnologia em Análise e Desenvolvimento de Sistemas — ADS
+**Curso:** Ciência da computação 
 **Disciplina:** Computação Gráfica e Processamento de Imagens
 **Professor:** MSc. João Francisco Borba
 
